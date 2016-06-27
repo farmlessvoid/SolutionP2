@@ -1,0 +1,32 @@
+*{
+
+}
+#brandname{
+	font-size:30px;
+}
+
+li a{
+	padding-right: 10px;
+	padding-left: 10px;
+	font-size: 20px;
+	text-align:center;
+	background-color: rgb(50, 60, 80);
+	color: white;
+}
+#header-nav{
+	border:0;
+	border-radius:0;
+}
+@media (min-width: 992px){
+
+}
+@media (min-width: 768px) and (max-width: 991px){
+
+}
+@media ( max-width:767px ){
+
+}
+#wasteofspace{
+	height:2000px;
+	background-color: rgb(100, 120, 140);
+}
